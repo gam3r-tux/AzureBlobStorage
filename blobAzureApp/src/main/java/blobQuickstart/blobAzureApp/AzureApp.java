@@ -58,10 +58,6 @@ public class AzureApp
 	* *************************************************************************************************************************
 	*/
 	public static final String storageConnectionString = "UseDevelopmentStorage=true;";
-	
-	//"DefaultEndpointsProtocol=https;AccountName=cuenta101;AccountKey=hnGZDN3bw/NIytm5DrXx52V+e6f1gD7jLTPkPVccOAJ4evtvPbd1c8Niz0vFt7bOQvqMlrXSS+1y+AStDy4WSw==;EndpointSuffix=core.windows.net";
-	
-	//
 
 	public static final String urlContainer = "https://d4e09fd561stg.blob.core.windows.net/articulosenliquidacion/test01";
 
